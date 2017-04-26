@@ -10,7 +10,7 @@ body {
 
 #banner {
   color: #fff;
-  background: #999 url("/Users/daniellasamudio/Desktop/interactive_design/final/img/casco.jpg") no-repeat center top;
+  background: #999 url("/../img/casco.jpg") no-repeat center top;
   text-align: center;
   font-family: Futura;
   text-align: center;
