@@ -10,9 +10,9 @@ body {
 
 #banner {
   color: #fff;
-  background: #999 url("../img/casco.jpg") no-repeat center top;
+  background: #999 url("/Users/daniellasamudio/Desktop/interactive_design/final/img/casco.jpg") no-repeat center top;
   text-align: center;
-  font-family: HarabaraHand;
+  font-family: Futura;
   text-align: center;
   margin-top: 0;
   background-size: cover;
@@ -20,7 +20,7 @@ body {
 }
 
 #banner h2 {
-  font: HarabaraHand;
+  font: Futura;
   font-size: 8em;
   padding: 20% 0;
   margin-top: 0;
@@ -28,7 +28,7 @@ body {
 }
 
 h3 {
-  font-family: HarabaraHand;
+  font-family: Futura;
 }
 
 p {
@@ -60,7 +60,7 @@ nav a {
 }
 
  ol {
-  font-family: HarabaraHand;
+  font-family: Futura;
 }
 
 .what {
@@ -92,7 +92,7 @@ background-color: #09c;
 
 .jump-link-top a {
   display: block;
-  font: 1.1em baskerville;
+  font: 1.1em Futura;
   text-decoration: none;
   padding: 1.2em;
   }
@@ -106,3 +106,9 @@ background-color: #09c;
 .jump-link-text {
   text-decoration: none;
   }
+
+figure {
+
+align: center;
+
+}
